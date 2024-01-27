@@ -5,7 +5,7 @@ from keras.preprocessing.image import ImageDataGenerator
 from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QVBoxLayout, QPushButton, QFileDialog
 from PyQt5.QtGui import QPixmap, QImage
 from PyQt5.QtCore import Qt
-
+ 
 
 class ImageSelectorDataAu(QWidget):
     def __init__(self):
