@@ -21,7 +21,7 @@ class ImageSelectorDataAu(QWidget):
             horizontal_flip=True,
             fill_mode='nearest'
         )
-
+ 
     def init_ui(self):
         self.setWindowTitle('Resim Seçici')
 
