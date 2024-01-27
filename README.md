@@ -24,4 +24,17 @@ Projenin çalıştırılması için aşağıdaki adımları izleyebilirsiniz:
 4. Modelleri eğitin ve değerlendirin.
 5. Uygulama geliştirme ortamını çalıştırın.
 
+## Proje Ekran Görüntüleri
+1. Test
+![image](https://github.com/SosisliYumurta/Transfer_Learning_and_PYQT/assets/104473831/ded5e28b-facb-4726-9453-1c7994a5b711)
+
+2. Train
+![image](https://github.com/SosisliYumurta/Transfer_Learning_and_PYQT/assets/104473831/deb260b7-1f05-4dfa-8021-ecf68dd59578)
+
+3. Veri Çoklama
+   Proje içinde Veri çoklama zaten yapılmaktadır bu kısım örnek olması açısından konulmuştur.
+   
+
+
+
 Detaylı kullanım talimatlarına, proje dosyalarında bulunan ProjeRapor.docx dosyasına bakabilirsiniz.
