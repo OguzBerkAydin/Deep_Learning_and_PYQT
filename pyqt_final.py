@@ -6,7 +6,7 @@ from train_metrics import MLTrainerGUI  # Assuming the train UI is in a file nam
 from data_aug import ImageSelectorDataAu
 class MainApp(QWidget):
     def __init__(self):
-        super().__init__()
+        super().__init__() 
 
         self.init_ui()
 
