@@ -32,7 +32,7 @@ Projenin çalıştırılması için aşağıdaki adımları izleyebilirsiniz:
 ![image](https://github.com/SosisliYumurta/Transfer_Learning_and_PYQT/assets/104473831/deb260b7-1f05-4dfa-8021-ecf68dd59578)
 
 3. Veri Çoklama
-   Proje içinde Veri çoklama zaten yapılmaktadır bu kısım örnek olması açısından konulmuştur.
+Proje içinde Veri çoklama zaten yapılmaktadır bu kısım örnek olması açısından konulmuştur.
    
 
 
