@@ -8,7 +8,7 @@ Proje kapsamında EfficientNetB0, Xception, ResNet gibi önceden eğitilmiş mod
 1. Giriş
 2. Modeller
 3. EfficientNetB0 Eğitim
-4. Xception ve ResNet Eğitimleri
+4. Xception ve ResNet Eğitimleri 
 5. Custom CNN
 6. Uygulama Geliştirme Ortamı
 7. Test Sonuçları
